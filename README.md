@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# My porfolio
+Terminal based portfolio website based from (CodeNerve)[CodeNerve.github.io]
