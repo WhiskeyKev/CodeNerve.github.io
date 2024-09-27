@@ -1,2 +1,8 @@
-<span id="a">whiskeykev@web</span>:<span id="b">~</span><span id="c">$</span> website comming soon...
+<span id="a">whiskeykev@web</span>:<span id="b">~</span><span id="c">$</span> Yo! What's up! 👋
+<span id="a">whiskeykev@web</span>:<span id="b">~</span><span id="c">$</span><br/>
+My name is Kevin 👨🏻‍💻<br/>
+I mostly work with Ruby on Rails & Nuxt.js right now, but I'm always looking for new cool tech to try!<br/>
+Most of my public work is available on <a href="https://github.com/WhiskeyKev">Github</a>!<br/>
+Want to get in contact with me? I'm always available on <a href="https://www.linkedin.com/in/kevin-metivier/">LinkedIn</a>!<br/>
+Cya! 🍻<br/>
 <span id="a">whiskeykev@web</span>:<span id="b">~</span><span id="c">$</span> 
